@@ -1,5 +1,4 @@
 La traduction française est ci-dessous. 👇
-## ---
 # Game of Life
 
 <img src="https://media.giphy.com/media/u6Lych5DL1l1JJHNW8/giphy.gif">
