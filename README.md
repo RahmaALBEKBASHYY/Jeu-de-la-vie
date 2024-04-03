@@ -60,8 +60,6 @@ To launch the program, simply do `bin/main <grid_file>`
 - <kbd>v</kbd>: Enables/Disables cell aging
 - <kbd>o</kbd>: Runs a colony oscillation test
 
-## Documentation
-You will find [here the complete documentation](https://mosa.pages.unistra.fr/cairo-game-of-life/) generated via doxygen. The beautiful theme used is [Doxygen Awesome](https://jothepro.github.io/doxygen-awesome-css/index.html).
 
 ## Author
 [ALBEKBASHY Rahma]
@@ -136,9 +134,6 @@ Pour lancer le programme, faites simplement `bin/main <fichier_grille>`
 - <kbd>c</kbd> : Active/Désactive le calcul cyclique des voisins de cellule
 - <kbd>v</kbd> : Active/Désactive le vieillissement des cellules
 - <kbd>o</kbd> : Lance un test d'oscillation de la colonie
-
-## Documentation
-Vous trouverez [ici la documentation complète](https://mosa.pages.unistra.fr/cairo-game-of-life/) générée via doxygen. Le magnifique thème utilisé est [Doxygen Awesome](https://jothepro.github.io/doxygen-awesome-css/index.html).
 
 ## Auteur
 [ALBEKBASHY Rahma]
